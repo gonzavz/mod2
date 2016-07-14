@@ -188,7 +188,7 @@ body.header-fixed-space-default {
 
 /*Navbar Toggle*/
 .header .navbar-toggle {
-	border-color: #5fb611;
+	border-color: #1a3672;
 }
 
 @media (max-width: 991px) {
@@ -205,12 +205,12 @@ body.header-fixed-space-default {
 .header .navbar-toggle,
 .header .navbar-toggle:hover,
 .header .navbar-toggle:focus {
-	background: #72c02c;
+	background: #1a3672;
 	padding: 6px 10px 2px;
 }
 
 .header .navbar-toggle:hover {
-	background: #5fb611 !important;
+	background: #1a3672 !important;
 }
 
 /*Navbar Collapse*/
@@ -362,13 +362,13 @@ body.header-fixed-space-default {
 	}
 
 	.header .navbar-nav > li > a:hover {
-		color: #72c02c;
+		color: #1a3672;
 	}
 
 	.header .navbar-nav > .active > a,
 	.header .navbar-nav > .active > a:hover,
 	.header .navbar-nav > .active > a:focus {
-		background: #72c02c;
+		background: #1a3672;
 		color: #fff !important;
 	}
 
