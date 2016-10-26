@@ -1,1 +1,11 @@
 /* Add here all your css styles (customizations) */
+.header .navbar-nav > li > a{
+    color: rgb(33,53,109)
+}
+
+.header .navbar-nav > .active > a {
+    border-color: rgb(33,53,109)
+}
+.header .navbar-nav > .active > a {
+    color: #000000;
+}
